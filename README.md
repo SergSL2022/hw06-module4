@@ -12,6 +12,12 @@
 
 
 ### 3. Create secret in vault and add other configuration
+![alt text](<screenshots/3/Знімок екрана з 2024-07-13 20-10-32.png>)
+![alt text](<screenshots/3/Знімок екрана з 2024-07-13 20-11-18.png>)
+![alt text](<screenshots/3/Знімок екрана з 2024-07-13 20-38-28.png>)
+![alt text](<screenshots/3/Знімок екрана з 2024-07-13 20-38-34.png>)
+
+
 ### 4. Setup test postgres as on lesson
 ### 5. Confirm that secret was added to the pod
 
