@@ -7,6 +7,10 @@
 
 
 ### 2. Install Vault using helm
+![alt text](<screenshots/2/Знімок екрана з 2024-07-13 17-07-56.png>)
+![alt text](<screenshots/2/Знімок екрана з 2024-07-13 17-08-08.png>)
+
+
 ### 3. Create secret in vault and add other configuration
 ### 4. Setup test postgres as on lesson
 ### 5. Confirm that secret was added to the pod
