@@ -33,6 +33,7 @@
 
 
 ### 5. Confirm that secret was added to the pod
+![alt text](<screenshots/5/Знімок екрана з 2024-07-15 16-06-17.png>)
 
 
 ## Operator (Optional)
